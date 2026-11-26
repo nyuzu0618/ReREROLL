@@ -1,1 +1,14 @@
 Re_REROLL20260830.zip
+
+# Unreal Engine
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/.vs/
+*.VC.db
+*.VC.opendb
+
+# Backup files
+*.zip
+*.bak
